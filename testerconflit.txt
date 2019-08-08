@@ -1,0 +1,7 @@
+Salut
+Fichier de la branche branche1 pour tester conflit lors d'un merge
+
+1
+2
+3
+5
